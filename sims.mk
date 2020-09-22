@@ -4,7 +4,7 @@
 ### Simulations
 
 BINDIR ?= $(GOPATH)/bin
-SIMAPP = github.com/coinexchain/dex/app
+SIMAPP = github.com/coinsky/dex/app
 
 test-sim-nondeterminism:
 	@echo "Running non-determinism test..."

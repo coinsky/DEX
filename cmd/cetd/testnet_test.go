@@ -11,7 +11,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/server"
 	"github.com/cosmos/cosmos-sdk/x/genaccounts"
 
-	"github.com/coinexchain/dex/app"
+	"github.com/coinsky/dex/app"
 )
 
 func TestTestnetCmd(t *testing.T) {

@@ -12,10 +12,10 @@ import (
 	"github.com/cosmos/cosmos-sdk/codec"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/coinexchain/cet-sdk/modules/asset"
-	"github.com/coinexchain/cet-sdk/modules/authx"
-	"github.com/coinexchain/cet-sdk/modules/market"
-	"github.com/coinexchain/dex/app"
+	"github.com/coinsky/dex/app"
+	"github.com/coinsky/sky-sdk/modules/asset"
+	"github.com/coinsky/sky-sdk/modules/authx"
+	"github.com/coinsky/sky-sdk/modules/market"
 )
 
 const (

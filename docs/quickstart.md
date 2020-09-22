@@ -1,7 +1,7 @@
 ## Compile
 
 ```bash
-git clone https://github.com/coinexchain/dex.git
+git clone https://github.com/coinsky/dex.git
 cd dex
 ```
 

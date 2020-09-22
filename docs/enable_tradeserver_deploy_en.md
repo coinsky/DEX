@@ -22,7 +22,7 @@ In the configuration file of `cetd`, which is located in `${RUN_DIR}/.cetd/confi
 
 ##### 2.1 Set the push data directory of cetd
 
-Copy the file [trade-server.toml.default](https://github.com/coinexchain/dex/blob/master/trade-server.toml.default) to `${RUN_DIR}/.cetd/config/trade-server.toml`; 
+Copy the file [trade-server.toml.default](https://github.com/coinsky/dex/blob/master/trade-server.toml.default) to `${RUN_DIR}/.cetd/config/trade-server.toml`; 
 
 Then modify the `dir`  field of the configuration(`{RUN_DIR}/.cetd/config/trade-server.toml`) , which will be consistent with the path of` prune` mode configuration under `brokers` in` cetd` configuration file `${RUN_DIR}/.cetd/config/app.toml`.
 

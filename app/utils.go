@@ -15,7 +15,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/client/flags"
 	authrest "github.com/cosmos/cosmos-sdk/x/auth/client/rest"
 
-	"github.com/coinexchain/cet-sdk/msgqueue"
+	"github.com/coinsky/sky-sdk/msgqueue"
 )
 
 const (

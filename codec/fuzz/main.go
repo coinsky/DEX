@@ -7,8 +7,8 @@ import (
 	"os"
 
 	"github.com/coinexchain/codon"
-	dexcodec "github.com/coinexchain/dex/codec"
 	"github.com/coinexchain/randsrc"
+	dexcodec "github.com/coinsky/dex/codec"
 )
 
 var Count = 100 * 10000

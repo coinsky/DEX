@@ -8,7 +8,7 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/codec"
 
-	"github.com/coinexchain/dex/app"
+	"github.com/coinsky/dex/app"
 )
 
 const (

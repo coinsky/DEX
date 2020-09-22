@@ -8,9 +8,9 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/coinexchain/cet-sdk/modules/bancorlite"
-	"github.com/coinexchain/cet-sdk/modules/market"
-	"github.com/coinexchain/dex/app"
+	"github.com/coinsky/dex/app"
+	"github.com/coinsky/sky-sdk/modules/bancorlite"
+	"github.com/coinsky/sky-sdk/modules/market"
 )
 
 func TestMigrate(t *testing.T) {

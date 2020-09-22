@@ -16,7 +16,7 @@ import (
 	sltypes "github.com/cosmos/cosmos-sdk/x/slashing/types"
 	stypes "github.com/cosmos/cosmos-sdk/x/staking/types"
 
-	dex "github.com/coinexchain/cet-sdk/types"
+	dex "github.com/coinsky/sky-sdk/types"
 )
 
 type TxExtraInfo struct {

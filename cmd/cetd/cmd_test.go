@@ -13,8 +13,8 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/server"
 
-	dex "github.com/coinexchain/cet-sdk/types"
-	"github.com/coinexchain/dex/app"
+	"github.com/coinsky/dex/app"
+	dex "github.com/coinsky/sky-sdk/types"
 )
 
 func init() {

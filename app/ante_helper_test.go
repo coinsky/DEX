@@ -7,7 +7,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/x/gov"
 
-	"github.com/coinexchain/cet-sdk/types"
+	"github.com/coinsky/sky-sdk/types"
 )
 
 var (

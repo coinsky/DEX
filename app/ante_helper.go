@@ -6,13 +6,13 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/gov"
 	"github.com/cosmos/cosmos-sdk/x/staking"
 
-	"github.com/coinexchain/cet-sdk/types"
+	"github.com/coinsky/sky-sdk/types"
 
-	"github.com/coinexchain/cet-sdk/modules/authx"
-	"github.com/coinexchain/cet-sdk/modules/bankx"
-	"github.com/coinexchain/cet-sdk/modules/distributionx"
-	"github.com/coinexchain/cet-sdk/modules/incentive"
-	"github.com/coinexchain/cet-sdk/modules/stakingx"
+	"github.com/coinsky/sky-sdk/modules/authx"
+	"github.com/coinsky/sky-sdk/modules/bankx"
+	"github.com/coinsky/sky-sdk/modules/distributionx"
+	"github.com/coinsky/sky-sdk/modules/incentive"
+	"github.com/coinsky/sky-sdk/modules/stakingx"
 )
 
 var _ authx.AnteHelper = anteHelper{}

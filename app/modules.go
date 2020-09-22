@@ -10,7 +10,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/slashing"
 	"github.com/cosmos/cosmos-sdk/x/staking"
 
-	dex "github.com/coinexchain/cet-sdk/types"
+	dex "github.com/coinsky/sky-sdk/types"
 )
 
 type AuthModuleBasic struct {

@@ -40,14 +40,14 @@ Ref: https://keepachangelog.com/en/1.0.0/
 
 ### Bug Fixes
 
-*   [#16](https://github.com/coinexchain/dex/issues/16) Rebate amount
+*   [#16](https://github.com/coinsky/dex/issues/16) Rebate amount
 
 ### API Breaking
 
-*   [#1](https://github.com/coinexchain/cet-sdk/issues/1)  Add market creator in push msg
-*   [#15](https://github.com/coinexchain/dex/issues/15) Uniform timestamp to unix.
-*   [#17](https://github.com/coinexchain/dex/issues/17) Uniform bancor message format
-*   [#18](https://github.com/coinexchain/dex/issues/18) Modify name of the rebate field
+*   [#1](https://github.com/coinsky/sky-sdk/issues/1)  Add market creator in push msg
+*   [#15](https://github.com/coinsky/dex/issues/15) Uniform timestamp to unix.
+*   [#17](https://github.com/coinsky/dex/issues/17) Uniform bancor message format
+*   [#18](https://github.com/coinsky/dex/issues/18) Modify name of the rebate field
 
 ## [v0.2.0] \(WIP\)
 
@@ -83,13 +83,13 @@ Parameter changes:
 ### State Machine Breaking
 
 ### API Breaking Changes
-*   [\#4](https://github.com/coinexchain/dex/issues/4) Modify the json name of the field 
-*   [\#3](https://github.com/coinexchain/dex/issues/3) Modify time unit 
-*   [\#6](https://github.com/coinexchain/dex/issues/6) Modify modules emit events.
-*   [\#7](https://github.com/coinexchain/dex/issues/7) Modify swagger.
+*   [\#4](https://github.com/coinsky/dex/issues/4) Modify the json name of the field 
+*   [\#3](https://github.com/coinsky/dex/issues/3) Modify time unit 
+*   [\#6](https://github.com/coinsky/dex/issues/6) Modify modules emit events.
+*   [\#7](https://github.com/coinsky/dex/issues/7) Modify swagger.
 
 ### Client Breaking Changes
-* [\#8](https://github.com/coinexchain/dex/issues/8) Parameter changes
+* [\#8](https://github.com/coinsky/dex/issues/8) Parameter changes
 
 | REST Endpoint       | Response Field                  | Change                                 |
 | ------------------- | ------------------------------- | -------------------------------------- |
@@ -108,7 +108,7 @@ Parameter changes:
 provide context and grouping of events based on the messages they correspond to. The `Events` field
 in `TxResponse` is deprecated and will be removed in the next major release.
 
-*   [\#5](https://github.com/coinexchain/dex/issues/5) The function of modify the price precision is adjusted.
+*   [\#5](https://github.com/coinsky/dex/issues/5) The function of modify the price precision is adjusted.
 
 ### Bug Fixes
 
@@ -116,14 +116,14 @@ in `TxResponse` is deprecated and will be removed in the next major release.
 
 ### State Machine Breaking
 ### API Breaking Changes
-* [\#1](https://github.com/coinexchain/dex/issues/1) Add a new type of transaction to support OTC.
-* [\#2](https://github.com/coinexchain/dex/issues/2) Limit max address length to 45, so UI display will be easier.
+* [\#1](https://github.com/coinsky/dex/issues/1) Add a new type of transaction to support OTC.
+* [\#2](https://github.com/coinsky/dex/issues/2) Limit max address length to 45, so UI display will be easier.
 
 ### Client Breaking Changes
-* [\#1](https://github.com/coinexchain/dex/issues/1) Add a new type of transaction to support OTC.
+* [\#1](https://github.com/coinsky/dex/issues/1) Add a new type of transaction to support OTC.
 
 ### Features
-* [\#1](https://github.com/coinexchain/dex/issues/1) Add a new type of transaction to support OTC.
+* [\#1](https://github.com/coinsky/dex/issues/1) Add a new type of transaction to support OTC.
 
 ### Improvements
 ### Bug Fixes

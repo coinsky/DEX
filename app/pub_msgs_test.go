@@ -7,7 +7,7 @@ import (
 	abci "github.com/tendermint/tendermint/abci/types"
 	"github.com/tendermint/tendermint/libs/common"
 
-	"github.com/coinexchain/cet-sdk/msgqueue"
+	"github.com/coinsky/sky-sdk/msgqueue"
 )
 
 func TestCollectKafkaEvents(t *testing.T) {

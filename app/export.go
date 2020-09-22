@@ -12,7 +12,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/slashing"
 	"github.com/cosmos/cosmos-sdk/x/staking"
 
-	"github.com/coinexchain/cet-sdk/modules/incentive"
+	"github.com/coinsky/sky-sdk/modules/incentive"
 )
 
 func (app *CetChainApp) ExportGenesisState(ctx sdk.Context) GenesisState {

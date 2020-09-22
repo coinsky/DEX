@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/coinexchain/dex/codec"
+	"github.com/coinsky/dex/codec"
 )
 
 func main() {

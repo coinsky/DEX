@@ -29,7 +29,7 @@ make static_lib && sudo make install
 First define some environmenal variables:
 
 
->  export ARTIFACTS_URL=https://github.com/coinexchain/dex/releases/download/v0.2.17/linux_x86_64.tar.gz <br/>
+>  export ARTIFACTS_URL=https://github.com/coinsky/dex/releases/download/v0.2.17/linux_x86_64.tar.gz <br/>
 >  export PUBLIC_IP=~~123.36.28.137~~ <br/>
 >  export RUN_DIR=~~/path/to/work-dir~~ <br/>
 

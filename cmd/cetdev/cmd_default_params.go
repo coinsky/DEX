@@ -14,13 +14,13 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/slashing"
 	"github.com/cosmos/cosmos-sdk/x/staking"
 
-	"github.com/coinexchain/cet-sdk/modules/alias"
-	"github.com/coinexchain/cet-sdk/modules/asset"
-	"github.com/coinexchain/cet-sdk/modules/authx"
-	"github.com/coinexchain/cet-sdk/modules/bancorlite"
-	"github.com/coinexchain/cet-sdk/modules/bankx"
-	"github.com/coinexchain/cet-sdk/modules/market"
-	"github.com/coinexchain/cet-sdk/modules/stakingx"
+	"github.com/coinsky/sky-sdk/modules/alias"
+	"github.com/coinsky/sky-sdk/modules/asset"
+	"github.com/coinsky/sky-sdk/modules/authx"
+	"github.com/coinsky/sky-sdk/modules/bancorlite"
+	"github.com/coinsky/sky-sdk/modules/bankx"
+	"github.com/coinsky/sky-sdk/modules/market"
+	"github.com/coinsky/sky-sdk/modules/stakingx"
 )
 
 type moduleParamSet struct {

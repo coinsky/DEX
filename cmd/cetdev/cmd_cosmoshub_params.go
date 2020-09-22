@@ -14,7 +14,7 @@ import (
 	"github.com/olekukonko/tablewriter"
 	"github.com/spf13/cobra"
 
-	"github.com/coinexchain/dex/app"
+	"github.com/coinsky/dex/app"
 )
 
 type genesisDoc struct {

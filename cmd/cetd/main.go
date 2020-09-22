@@ -25,9 +25,9 @@ import (
 	genutilcli "github.com/cosmos/cosmos-sdk/x/genutil/client/cli"
 	"github.com/cosmos/cosmos-sdk/x/staking"
 
-	assetcli "github.com/coinexchain/cet-sdk/modules/asset/client/cli"
-	dex "github.com/coinexchain/cet-sdk/types"
-	"github.com/coinexchain/dex/app"
+	"github.com/coinsky/dex/app"
+	assetcli "github.com/coinsky/sky-sdk/modules/asset/client/cli"
+	dex "github.com/coinsky/sky-sdk/types"
 )
 
 // cetd custom flags

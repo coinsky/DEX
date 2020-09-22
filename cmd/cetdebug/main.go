@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/coinexchain/dex/app"
+	"github.com/coinsky/dex/app"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/x/auth"
@@ -18,7 +18,7 @@ import (
 	"github.com/tendermint/tendermint/crypto"
 	"github.com/tendermint/tendermint/crypto/ed25519"
 
-	dex "github.com/coinexchain/cet-sdk/types"
+	dex "github.com/coinsky/sky-sdk/types"
 )
 
 func init() {

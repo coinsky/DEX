@@ -9,12 +9,12 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	"github.com/coinexchain/cet-sdk/modules/asset"
-	"github.com/coinexchain/cet-sdk/modules/authx"
-	"github.com/coinexchain/cet-sdk/modules/bankx"
-	"github.com/coinexchain/cet-sdk/modules/market"
-	"github.com/coinexchain/cet-sdk/testutil"
-	dex "github.com/coinexchain/cet-sdk/types"
+	"github.com/coinsky/sky-sdk/modules/asset"
+	"github.com/coinsky/sky-sdk/modules/authx"
+	"github.com/coinsky/sky-sdk/modules/bankx"
+	"github.com/coinsky/sky-sdk/modules/market"
+	"github.com/coinsky/sky-sdk/testutil"
+	dex "github.com/coinsky/sky-sdk/types"
 )
 
 func TestGasFeeDeductedWhenTxFailed(t *testing.T) {
